@@ -1,4 +1,4 @@
-### Selenium IDE Testing for Online Medical Appointment System
+# Selenium IDE Testing for Online Medical Appointment System
 This document provides instructions on how to use Selenium IDE to test an online medical appointment system developed in PHP.
 
 ## Prerequisites
